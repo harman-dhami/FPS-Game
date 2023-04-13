@@ -1,0 +1,1738 @@
+Coordinates of the first enemy 
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 12.57254
+ 
+The z value for the first enemy is: 14.71305
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 6.565472
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
+The x value for the first enemy is: 18.39547
+ 
+The z value for the first enemy is: 33.56354
+ 
